@@ -1,7 +1,7 @@
 # SnackBarUtil
-带颜色的SnackBar
+*带颜色的SnackBar,提供了文字和背景颜色的设置以及图标的设置
 
- ![Image](https://github.com/huweijian5/SnackBarUtil/blob/master/screenshots/device-2016-11-30-162154.mp4_1480494585.gif)
+ ![Image](https://github.com/huweijian5/SnackBarUtil/blob/master/screenshots/device-2016-11-30-162154.mp4_1480494504.gif)
 
 
 ## 引用
