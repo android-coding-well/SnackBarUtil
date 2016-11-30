@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="j_snack_alert">#129BFF</color>
+    <color name="j_snack_warning">#FEB500</color>
+    <color name="j_snack_error">#FF5B3B</color>
+</resources>
