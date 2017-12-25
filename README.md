@@ -2,8 +2,23 @@
 *带颜色的SnackBar,提供了文字和背景颜色的设置以及图标的设置
 
  ![Image](https://github.com/huweijian5/SnackBarUtil/blob/master/screenshots/device-2016-11-30-162154.mp4_1480494504.gif)
+---
+## 使用说明
+* 如果需要修改颜色，可在主工程的colors.xml里添加修改
+```
+```
 
 
+## JavaDoc文档
+
+* [在线JavaDoc](https://jitpack.io/com/github/huweijian5/SnackBarUtil/1.0.1/javadoc/index.html)
+* 网址：`https://jitpack.io/com/github/huweijian5/SnackBarUtil/[VersionCode]/javadoc/index.html`
+* 其中[VersionCode](https://github.com/huweijian5/SnackBarUtil/releases)请替换为最新版本号
+* 注意文档使用UTF-8编码，如遇乱码，请在浏览器选择UTF-8编码即可
+
+---
+
+---
 ## 引用
 
 * 如果需要引用此库,做法如下：
