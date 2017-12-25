@@ -1,11 +1,16 @@
 # SnackBarUtil
-*带颜色的SnackBar,提供了文字和背景颜色的设置以及图标的设置
+* 带颜色的SnackBar,提供了文字和背景颜色的设置以及图标的设置
 
  ![Image](https://github.com/huweijian5/SnackBarUtil/blob/master/screenshots/device-2016-11-30-162154.mp4_1480494504.gif)
 ---
 ## 使用说明
 * 如果需要修改颜色，可在主工程的colors.xml里添加修改
-```
+```xml
+<resources>
+    <color name="j_snack_alert">#129BFF</color>
+    <color name="j_snack_warning">#FEB500</color>
+    <color name="j_snack_error">#FF5B3B</color>
+</resources>
 ```
 
 
